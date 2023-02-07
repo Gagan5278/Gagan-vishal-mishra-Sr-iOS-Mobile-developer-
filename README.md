@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Gagan Vishal
 - 👀 I’m interested in mobile app developmemt. My primary skill is iOS.
-- 🌱 I’m currently learning Swift UI.
+- 🏋️ Experienced in Swift, Objective-C & SwiftUI.
+- 🪂 Experienced in Flutter development.
+- 🌱 I’m currently learning ReactNative.
 - 💞️ I’m looking to collaborate on mobile app development.
 - 📫 Please reach me at gagan5278@gmail.com 
 
